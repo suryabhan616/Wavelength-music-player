@@ -4,6 +4,8 @@ A modern Spotify-inspired music player built with **React**, **Vite**, and **Luc
 
 ---
 
+🌐 **Live Demo:** https://wavelength-music-player.vercel.app/
+
 ## 📸 Preview
 
 
