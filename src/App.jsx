@@ -1,0 +1,7 @@
+import Wavelength from "./Wavelength";
+
+function App() {
+  return <Wavelength />;
+}
+
+export default App;
