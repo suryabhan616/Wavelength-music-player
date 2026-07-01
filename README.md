@@ -6,7 +6,6 @@ A modern Spotify-inspired music player built with **React**, **Vite**, and **Luc
 
 ## 📸 Preview
 
-> Add a screenshot here after uploading one.
 
 ![Preview](./preview.png)
 
